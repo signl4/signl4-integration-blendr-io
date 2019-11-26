@@ -4,13 +4,13 @@ Mobile Alarmierung mit Tracking, Bereitschafts-Planung und Eskalation für Blend
 
 ## Warum SIGNL4
 
-Blendr.io ist eine Integrations-Plattform, die ein komplettes Toolkit für SaaS-basierte Integrationen bietet, um Ihre Kunden, Ihr Erfolgs-Management-Team und Ihre Entwickler zu unterstützen. Mit schnellen und sicheren nativen Integrationen unterstützt Blender.io Entwickler bei zeitaufwändigen Integrations- und Wartungsaufgaben. Die Integration dieser leistungsstarken Plattform mit SIGNL4 kann Ihren täglichen Betrieb durch die zuverlässige Alarmierung mobiler Teams verbessern, egal wo sich diese befinden.
+Blendr.io ist eine Integrations-Plattform, die ein komplettes Toolkit für SaaS-basierte Integrationen bietet, um Ihre Kunden, Ihr Erfolgs-Management-Team und Ihre Entwickler zu unterstützen. Mit schnellen und sicheren nativen Integrationen unterstützt Blendr.io Entwickler bei zeitaufwändigen Integrations- und Wartungsaufgaben. Die Integration dieser leistungsstarken Plattform mit SIGNL4 kann Ihren täglichen Betrieb durch die zuverlässige Alarmierung mobiler Teams verbessern, egal wo sich diese befinden.
 
 ![SIGNL4](blendr-io-signl4.png)
 
 ## So funktioniert es
 
-SIGNL4 ist als native Integration in Blender.io verfügbar. Alles, was für die Verknüpfung von Blendr.io mit SIGNL4 nötig ist der die SIGNL4 Integration, die Sie in Ihrem Blend einfügen können, um Ihr Team zu alarmieren.
+SIGNL4 ist als native Integration in Blendr.io verfügbar. Alles, was für die Verknüpfung von Blendr.io mit SIGNL4 nötig ist der die SIGNL4 Integration, die Sie in Ihrem Blend einfügen können, um Ihr Team zu alarmieren.
 
 ## Integration
 
@@ -57,7 +57,7 @@ In Ihrem Blend können Sie einfach die native SIGNL4-Integration einfügen, wann
 
 ![SIGNL4 Settings](blendr-io-settings.png)
 
-5. Testen Sie es  
+2. Testen Sie es  
 
 Starten Sie den Blend und wenn die SIGNL4-Integration ausgeführt wird, wird ein Alarm an Ihr SIGNL4-Team gesendet.
 
